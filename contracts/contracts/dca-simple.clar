@@ -1,4 +1,5 @@
-;; DCA Simple - MVP
+;; DCA Manager - MVP
+;; Clarity 4 compatible
 
 ;; Constants
 (define-constant ERR-NOT-AUTHORIZED (err u100))
